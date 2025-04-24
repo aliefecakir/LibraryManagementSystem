@@ -1,0 +1,5 @@
+Kitap adi: Su‡ ve Ceza,	Yazarin adi: Dostoyevski,	Sayfa sayisi: 688
+Kitap adi: AteŸten G”mlek,	Yazarin adi: Halide Edib Advar,	Sayfa sayisi: 224
+Kitap adi: D”nŸm,	Yazarin adi: Franz Kafka,	Sayfa sayisi: 104
+Kitap adi: 1984,	Yazarin adi: George Orwell,	Sayfa sayisi: 352
+Kitap adi: Hayvan €iftli§i,	Yazarin adi: George Orwell,	Sayfa sayisi: 152
